@@ -1,0 +1,4 @@
+# UnityShaderEnergyShield
+Unity能量罩的shader实现
+通过深度图实现了能量罩与其他物体相交时产生高光效果
+还有uv动画
